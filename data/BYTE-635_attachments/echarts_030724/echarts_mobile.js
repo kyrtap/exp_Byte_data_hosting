@@ -70,7 +70,7 @@ const gaugeData = [
     title: [{
       text: 'Mobilfunknetzabdeckung'},
       {
-        subtext: 'CC BY – MIG, BMDV. Datenstand 01.07.2022',
+        subtext: 'CC BY – MIG, BMDV',
         top: 15,
         subtextStyle:{color: '#687178', fontSize: 12}
       },
